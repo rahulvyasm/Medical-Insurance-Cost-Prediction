@@ -1,10 +1,22 @@
 # Medical Insurance Cost Prediction
 
-This repository contains Python code for predicting medical insurance costs using machine learning techniques. The project aims to analyze various factors influencing insurance charges, such as age, BMI, gender, smoking status, and region, and develop predictive models to estimate insurance costs accurately.
+This repository contains Python code for predicting medical insurance costs using machine learning techniques. The project aims to analyze various factors influencing insurance charges, such as age, BMI, gender, smoking status, region, and charges and develop predictive models to estimate insurance costs accurately.
+
+The dataset contains **2.7K rows** and **7 columns**
+**Columns include**
+
+1. Age
+2. Sex
+3. BMI (Body Mass Index)
+4. Children
+5. Smoker
+6. Region
+7. Charges
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
@@ -19,6 +31,12 @@ This repository contains Python code for predicting medical insurance costs usin
 ## Introduction
 
 Healthcare costs are a significant concern for individuals and families worldwide. Predicting medical insurance costs accurately can help insurance companies determine premiums and assist individuals in planning their healthcare expenses. This project focuses on building machine learning models to predict insurance costs based on demographic and health-related attributes.
+
+## Problem Statement
+
+1. What are the most important factors that affect medical expenses?
+2. How well can machine learning models predict medical expenses?
+3. How can machine learning models be used to improve the efficiency and profitability of health insurance companies?
 
 ## Features
 
