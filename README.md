@@ -33,6 +33,7 @@ Healthcare costs are a significant concern for individuals and families worldwid
 
 - **Python**: Programming language used for data manipulation, analysis, and model implementation.
 - **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, and Scikit-learn for data handling, visualization, and machine learning tasks.
+- **Machine Learning Models**: Linear Regression, Ridge Regression
 - **Pickle**: Python library used for serializing trained models and pipelines to disk.
 
 ## Usage
@@ -92,11 +93,11 @@ Save trained models and preprocessing pipelines to disk using the pickle library
 
 ## Contributors
 
-- [M Rahul Vyas](link) - [Your GitHub Profile](link)
+- [M Rahul Vyas](https://github.com/rahulvyasm)
 
 ## License
 
-This project is licensed under the [MIT License](link). Feel free to use, modify, and distribute the code for your purposes.
+This project is licensed under the [MIT License](https://github.com/rahulvyasm/Medical-Insurance-Cost-Prediction/blob/main/LICENSE). Feel free to use, modify, and distribute the code for your purposes.
 
 ---
 
